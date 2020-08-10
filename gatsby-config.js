@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Paul J Park`,
+    title: `Paul's Mental Meanderings`,
     author: {
       name: `Paul Park`,
       summary: `who enjoys patting people's shoulders`,
@@ -8,7 +8,7 @@ module.exports = {
     description: `The ruminations of the great 발도사`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `baldosa11`,
     },
   },
   plugins: [
@@ -60,13 +60,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `cafedosa`,
+        short_name: `coffee`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `☕️`,
       },
     },
     `gatsby-plugin-react-helmet`,
