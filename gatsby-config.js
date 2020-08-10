@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Paul J Park`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Paul Park`,
+      summary: `who enjoys patting people's shoulders`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `The ruminations of the great 발도사`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `kylemathews`,
